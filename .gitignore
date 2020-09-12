@@ -12,3 +12,4 @@ npm-debug.log
 yarn-error.log
 tmp
 .php_cs.cache
+.idea
